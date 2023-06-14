@@ -1,1 +1,1 @@
-worker: python3 botstatus_pratheek.py
+web: python3 botstatus_pratheek.py
